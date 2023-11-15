@@ -1,7 +1,7 @@
 
-# Data Scientist_Kalbe Nutritionals
+# Thesis_Chemistry Department UGM
 
-This final task entails Forecasting Product Purchases and Customer Segmentation, marking the culmination of my Project-Based Internship at Kalbe Nutritionals.
+This repository comprises data analysis and machine learning programs utilized in the completion of the thesis **"Adsorption Of Methyl Orange Dye Using Modified Coal Fly Ash With Ctab (Cetyltrimethylammonium Bromide)"**.
 
 
 
@@ -12,10 +12,9 @@ I am Ricky Fasha Setiawan, but you can address me as Ricky. Currently, I am a fi
 ## Repository Contents
 
 - Dataset
-- SQL Code for Query Resolution (.sql)
-- Tableu Public link for Data Modeling
-- Customer Clustering Implementation in Python (.py) and Jupyter Notebook (.ipynb)
-- Inventory Forecasting Code in Python (.py) and Jupyter Notebook (.ipynb)
+- 📈 Machine Learning in FTIR Analysis (.ipynb)
+- 📈 Machine Learning in XRD Analysis (.ipynb)
+- 📊 Data Analysis for Absorbance (.ipynb)
 
 
 ## 🔗 Personal Info
