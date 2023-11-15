@@ -11,7 +11,7 @@ I am Ricky Fasha Setiawan, but you can address me as Ricky. Currently, I am a fi
 
 ## Repository Contents
 
-- Dataset
+- 💾 Dataset
 - 📈 Machine Learning in FTIR Analysis (.ipynb)
 - 📈 Machine Learning in XRD Analysis (.ipynb)
 - 📊 Data Analysis for Absorbance (.ipynb)
