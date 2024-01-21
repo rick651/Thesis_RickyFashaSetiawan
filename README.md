@@ -1,7 +1,7 @@
 
 # Thesis_Chemistry Department UGM
 
-This repository comprises data analysis and machine learning programs utilized in the completion of the thesis **"Adsorption Of Methyl Orange Dye Using Modified Coal Fly Ash With Ctab (Cetyltrimethylammonium Bromide)"**.
+This repository comprises data analysis and machine learning programs utilized in the completion of the thesis **"Synthesis of Sodalite Through Modification of Coal Fly Ash With CTAB (Cetyltrimethylammonium Bromide) for the Adsorption of Methyl Orange Dye"**.
 
 
 
@@ -12,8 +12,10 @@ I am Ricky Fasha Setiawan, but you can address me as Ricky. Currently, I am a fi
 ## Repository Contents
 
 - 💾 Dataset
-- 📈 Machine Learning in FTIR Analysis (.ipynb)
-- 📈 Machine Learning in XRD Analysis (.ipynb)
+- 📈 FTIR Analysis (.ipynb)
+- 📈 XRD Analysis (.ipynb)
+- 📈 SEM Molecular Distribution Analysis (.ipynb)
+- 📈 BET Analysis (.ipynb)
 - 📊 Data Analysis for Absorbance (.ipynb)
 
 
